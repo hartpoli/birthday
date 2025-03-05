@@ -37,7 +37,6 @@ body {
   top: 20vh;
 }
 
-/* Styling tombol */
 .audio-button {
   position: fixed;
   bottom: 20px;
@@ -57,9 +56,8 @@ body {
 }
 
 .audio-button {
-  z-index: 9999; /* Pastikan nilai ini lebih tinggi dari elemen lain */
+  z-index: 9999; 
 }
-
 
 .one {
   font-size: 4.5rem;
